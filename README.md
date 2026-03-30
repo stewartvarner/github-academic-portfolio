@@ -94,13 +94,13 @@ OPTIONAL: You can rename the repository for your own account
 
 ## View GitHub Site
 
-Select the Actions button in top menu
-This will show your pages build and deployment
-Select the <>Code in the top menu bar
-Select the ⚙️ gear icon next to About in the right sidebar
-Check the Use your GitHub Pages website checkbox
-Select the green Save changes button
-Click on the blue link to open your site in a new tab in your browser
+1. Select the Actions button in top menu
+2. This will show your pages build and deployment
+3. Select the <>Code in the top menu bar
+4. Select the ⚙️ gear icon next to About in the right sidebar
+5. Check the Use your GitHub Pages website checkbox
+6. Select the green Save changes button
+7. Click on the blue link to open your site in a new tab in your browser
 
 # CONGRATULATIONS!
 
